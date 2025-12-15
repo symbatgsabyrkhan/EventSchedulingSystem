@@ -1,7 +1,7 @@
 public class Main{
     public static void main(String[] args){
         event event1=new event("Kairat Nurtas's concert", "Astana Arena", 500, true);
-        event event2 = new event("New Year Party", "Resataurant", 1000, true);
+        event event2 = new event("New Year Party", "Restaurant", 1000, true);
         event event3 = new event("Shop's open day", "Online", 50, false);
         Participant participant1 = new Participant("Sabyrkhan Symbat", "symbat0408@icloud.com", true);
         Participant participant2 = new Participant("Karakat Mambetiyar", "karakat@email.com", false);
